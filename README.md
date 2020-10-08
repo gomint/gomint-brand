@@ -1,2 +1,5 @@
 # gomint-branding
-Branding components of the GoMint project
+Official branding components of the GoMint project
+
+# Pure
+![Pure Variant - Colored](pure/gomint-pure.png)

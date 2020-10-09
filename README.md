@@ -71,29 +71,6 @@ Official branding components of the GoMint project. At request more variations c
   <img src="v3/avatar/gomint-avatar-square.svg" alt="pure colored variant" width="200"/>
 </details>
 
-### Outlined
-#### Circle
-<details>
-  <summary>Black</summary>
-  <img src="v3/avatar/gomint-avatar-outline-circle-black.svg" alt="pure colored variant" width="200"/>
-</details>
-
-<details>
-  <summary>White</summary>
-  <img src="v3/avatar/gomint-avatar-outline-circle-white.svg" alt="pure colored variant" width="200"/>
-</details>
-
-#### Square
-<details>
-  <summary>Black</summary>
-  <img src="v3/avatar/gomint-avatar-outline-square-black.svg" alt="pure colored variant" width="200"/>
-</details>
-
-<details>
-  <summary>White</summary>
-  <img src="v3/avatar/gomint-avatar-outline-square-white.svg" alt="pure colored variant" width="200"/>
-</details>
-
 ## Promotional
 <details>
   <summary>Logo colored, text black, "powered" aligned left</summary>

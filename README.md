@@ -17,23 +17,6 @@ Official branding components of the GoMint project. At request more variations c
   <img src="v3/pure/gomint-pure-white.svg" alt="pure colored variant" width="200"/>
 </details>
 
-### Wire
-<details>
-  <summary>Colored</summary>
-  <img src="v3/pure/gomint-pure-wire.svg" alt="pure colored variant" width="200"/>
-</details>
-
-<details>
-  <summary>Black</summary>
-  <img src="v3/pure/gomint-pure-wire-black.svg" alt="pure colored variant" width="200"/>
-</details>
-
-<details>
-  <summary>White</summary>
-  <img src="v3/pure/gomint-pure-wire-white.svg" alt="pure colored variant" width="200"/>
-</details>
-
-
 ### Outlined
 #### Circle
 <details>
@@ -55,6 +38,22 @@ Official branding components of the GoMint project. At request more variations c
 <details>
   <summary>White</summary>
   <img src="v3/pure/gomint-pure-outline-square-white.svg" alt="pure colored variant" width="200"/>
+</details>
+
+## Wire
+<details>
+  <summary>Colored</summary>
+  <img src="v3/wire/gomint-wire.svg" alt="pure colored variant" width="200"/>
+</details>
+
+<details>
+  <summary>Black</summary>
+  <img src="v3/wire/gomint-wire-black.svg" alt="pure colored variant" width="200"/>
+</details>
+
+<details>
+  <summary>White</summary>
+  <img src="v3/wire/gomint-wire-white.svg" alt="pure colored variant" width="200"/>
 </details>
 
 ## Text

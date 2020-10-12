@@ -1,5 +1,6 @@
 # gomint-branding
 Official branding components of the GoMint project. At request more variations can be made. Create an issue and we'll have a little chat!
+For licensing [please see here.](v3/LICENSE)
 
 ## Pure
 <details>
